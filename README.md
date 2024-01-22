@@ -15,7 +15,8 @@ This project is a virtual piano implemented using HTML, CSS, and JavaScript. It 
 3. Click on the virtual keys to play different notes.
 
 ## Demo
-[Include a link to a live demo or screenshots]
+Screenshot - (https://github.com/samprita123/Playable-Piano/assets/115872926/9ac8f442-189f-45f9-a26a-3cf5eac432c4)
+
 
 ## Technologies Used
 - HTML
