@@ -1,6 +1,6 @@
 # Playable-Piano
 
-Welcome to my playable piano mini project! 🎹
+Welcome to my playable piano mini project!! 🎹
 
 ## Description
 This project is a virtual piano implemented using HTML, CSS, and JavaScript. It allows users to play different musical notes by interacting with the virtual keys.
