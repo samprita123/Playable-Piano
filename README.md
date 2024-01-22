@@ -8,7 +8,6 @@ This project is a virtual piano implemented using HTML, CSS, and JavaScript. It 
 ## Features
 - Responsive design for various screen sizes.
 - Interactive piano keys with corresponding sounds.
-- [Add any additional features here]
 
 ## How to Play
 1. Clone or download the repository.
